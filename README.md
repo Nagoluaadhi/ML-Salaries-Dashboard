@@ -12,16 +12,8 @@ This project is a React-based web application that visualizes machine learning e
 ### Features
 <b>Main Table</b>: Displays the number of jobs and average salary per year.<br>
 <b>Sortable Columns</b>: Users can sort the table by year, number of jobs, or average salary.<br>
- <div align="center">
- <h3 >Main Table</h3>
-![ML-Salaries-Dashboard Screenshot][product-screenshot1]
- </div>
 <b>Detailed View</b>: Clicking on a year in the main table shows detailed job title counts for that year.<br>
 <b>Line Chart</b>: Visualizes the number of jobs over time.<br>
-<div align="center">
- <h3 >Line Chart</h3>
-![ML-Salaries-Dashboard Screenshot][product-screenshot2]
- </div>
 <b>Responsive Design</b>: Uses Bootstrap for styling and responsive layout.
 
 <p align="right"><a href="#top">back to top ^</a></p>
@@ -68,5 +60,4 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 <p align="right"><a href="#top">back to top ^</a></p>
-[product-screenshot1]: src/images/Main-Table.jpg
-[product-screenshot2]: src/images/Line-Chart.jpg
+
